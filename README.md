@@ -1,54 +1,51 @@
-# Artigos-Cientificos
-**Artigos de pesquisa e de revisão voltados à genética e melhoramento, genética quantitativa e genômica de diversas culturas alógamas e autógamas.**
+**Aqui está uma seleção de 12 artigos essenciais que cobrem tópicos importantes na área de melhoramento genético.**
 
-Aqui está uma seleção de 12 artigos essenciais que cobrem tópicos importantes na área de melhoramento genético:
+## 🌱 Seleção Genômica & Genética Quantitativa
 
-# 🌱 Seleção Genômica & Genética Quantitativa
-
-### ⓿❶ Entendendo o Processo de Seleção Genômica em Plantas  
+# ❶ Entendendo o Processo de Seleção Genômica em Plantas  
 - https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1155985/melhoramento-de-precisao-aplicacoes-e-perspectivas-na-genetica-de-plantas
 - Resende, R.T. Balancing genomic selection efforts for allogamous plant breeding programs. J. Crop Sci. Biotechnol. 27, 349–358 (2024). https://doi.org/10.1007/s12892-024-00234-7
 
-### ⓿❷ Como Funciona a Genética Quantitativa?  
+# ❷ Como Funciona a Genética Quantitativa?  
 - https://www.linkedin.com/posts/thecrop_breeding-precisionbreeding-agriculture-activity-7125966987658178563-_H7R?utm_source=share&utm_medium=member_desktop
 
-### ⓿❸ Derivações das Relações Genéticas Entre Indivíduos  
+# ❸ Derivações das Relações Genéticas Entre Indivíduos  
 - https://www.linkedin.com/posts/thecrop_breeding-precisionagriculture-genomics-activity-7128515032455245825-8aaz?utm_source=share&utm_medium=member_desktop
 
-# 🧬 Modelos Estatísticos & Teoria
+## 🧬 Modelos Estatísticos & Teoria
 
-### ⓿❹ Efeitos Fixos vs Aleatórios em Modelos Mistos  
+# ❹ Efeitos Fixos vs Aleatórios em Modelos Mistos  
 - https://www.linkedin.com/posts/thecrop_mixedmodels-breeding-precisionbreeding-activity-7134863118593081345-osE1?utm_source=share&utm_medium=member_desktop
 
-### ⓿❺ A Equação do Melhorista Explicada  
+# ❺ A Equação do Melhorista Explicada  
 - https://www.linkedin.com/posts/thecrop_breeding-phenomics-genomics-activity-7158601205236056064-TzZM?utm_source=share&utm_medium=member_desktop
 
-### ⓿❻ Por Que a Herdabilidade é Fundamental no Melhoramento?  
+# ❻ Por Que a Herdabilidade é Fundamental no Melhoramento?  
 - https://www.linkedin.com/posts/thecrop_genetics-breeding-heritability-activity-7152750689352327168-m7ld?utm_source=share&utm_medium=member_desktop
 
-# 🌾 Populações de Melhoramento & Métodos
+## 🌾 Populações de Melhoramento & Métodos
 
-### ⓿❼ Entendendo Populações de Melhoramento  
+# ❼ Entendendo Populações de Melhoramento  
 - https://www.linkedin.com/posts/thecrop_thecrop-plantbreeding-genetics-activity-7155311141504577536-p5YJ?utm_source=share&utm_medium=member_desktop
 
-### ⓿❽ A Complexa Interação Genótipo × Ambiente  
+# ❽ A Complexa Interação Genótipo × Ambiente  
 - https://www.linkedin.com/posts/thecrop_gxe-breeding-plantbreeding-activity-7175942157944446976-B_z5?utm_source=share&utm_medium=member_desktop
 
-### ⓿❾ Seleção Recorrente — É Tão Simples Assim?  
+# ❾ Seleção Recorrente — É Tão Simples Assim?  
 - https://www.linkedin.com/posts/thecrop_breeding-genomics-phenomics-activity-7188680080171163648-Cblr?utm_source=share&utm_medium=member_desktop
 
-# 📊 ‘Ômicas & Implementação
+## 📊 ‘Ômicas & Implementação
 
-### ❶⓿ Fenômica no Melhoramento Genético  
+# ❶⓿ Fenômica no Melhoramento Genético  
 - https://www.linkedin.com/posts/thecrop_phenomics-breeding-animalbreeding-activity-7198382693988888576-o0Pu?utm_source=share&utm_medium=member_desktop
 
-### ❶❶ A Ascensão da Enviromia (Enviromics)  
+# ❶❶ A Ascensão da Enviromia (Enviromics)  
 - https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00118-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205224001187%3Fshowall%3Dtrue
 
-### ❶❷ Etapas de Implementação Experimental para o Melhoramento de Culturas  
+# ❶❷ Etapas de Implementação Experimental para o Melhoramento de Culturas  
 - https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19951
 
-**Diversos**
+**Artigos de pesquisa e de revisão voltados à genética e melhoramento, genética quantitativa e genômica de diversas culturas alógamas e autógamas.**
 
 1. Moeinizade, S., Kusmec, A., Hu, G., Wang, L., & Schnable, P. S. (2020). [Multi-trait genomic selection methods for crop improvement](https://academic.oup.com/genetics/article/215/4/931/6065544). Genetics.
 
