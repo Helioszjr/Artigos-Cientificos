@@ -1,4 +1,4 @@
-**Aqui está uma seleção de 12 artigos essenciais que cobrem tópicos importantes na área de melhoramento genético.**
+## **Aqui está uma seleção de 12 artigos essenciais que cobrem tópicos importantes na área de melhoramento genético.**
 
 ## 🌱 Seleção Genômica & Genética Quantitativa
 
@@ -45,7 +45,7 @@
 # ❶❷ Etapas de Implementação Experimental para o Melhoramento de Culturas  
 - https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19951
 
-**Artigos de pesquisa e de revisão voltados à genética e melhoramento, genética quantitativa e genômica de diversas culturas alógamas e autógamas.**
+## **Artigos de pesquisa e de revisão voltados à genética e melhoramento, genética quantitativa e genômica de diversas culturas alógamas e autógamas.**
 
 1. Moeinizade, S., Kusmec, A., Hu, G., Wang, L., & Schnable, P. S. (2020). [Multi-trait genomic selection methods for crop improvement](https://academic.oup.com/genetics/article/215/4/931/6065544). Genetics.
 
