@@ -1,6 +1,54 @@
 # Artigos-Cientificos
+**Artigos de pesquisa e de revisão voltados à genética e melhoramento, genética quantitativa e genômica de diversas culturas alógamas e autógamas.**
 
-Artigos de pesquisa e de revisão voltados à genética e melhoramento, genética quantitativa e genômica de diversas culturas alógamas e autógamas.
+Aqui está uma seleção de 12 artigos essenciais que cobrem tópicos importantes na área de melhoramento genético:
+
+# 🌱 Seleção Genômica & Genética Quantitativa
+
+### ⓿❶ Entendendo o Processo de Seleção Genômica em Plantas  
+- [Artigo 1](https://www.linkedin.com/feed/update/urn:li:activity:7186618579494967297/)
+- [Artigo 2](https://www.linkedin.com/feed/update/urn:li:activity:7186618874081142784/)
+
+### ⓿❷ Como Funciona a Genética Quantitativa?  
+- [Leia aqui](https://lnkd.in/gD2SyK2y)
+
+### ⓿❸ Derivações das Relações Genéticas Entre Indivíduos  
+- [Confira aqui](https://lnkd.in/ddhMVcma)
+
+# 🧬 Modelos Estatísticos & Teoria
+
+### ⓿❹ Efeitos Fixos vs Aleatórios em Modelos Mistos  
+- [Explorar aqui](https://lnkd.in/gfvBERBV)
+
+### ⓿❺ A Equação do Melhorista Explicada  
+- [Ler artigo](https://lnkd.in/gU-CMFhg)
+
+### ⓿❻ Por Que a Herdabilidade é Fundamental no Melhoramento?  
+- [Link](https://lnkd.in/gTbEWTxE)
+
+# 🌾 Populações de Melhoramento & Métodos
+
+### ⓿❼ Entendendo Populações de Melhoramento  
+- [Visitar aqui](https://lnkd.in/guqMD4hA)
+
+### ⓿❽ A Complexa Interação Genótipo × Ambiente  
+- [Aprofunde-se](https://lnkd.in/gsSvNVNr)
+
+### ⓿❾ Seleção Recorrente — É Tão Simples Assim?  
+- [Explorar tópico](https://lnkd.in/gvdhXBiG)
+
+# 📊 ‘Ômicas & Implementação
+
+### ❶⓿ Fenômica no Melhoramento Genético  
+- [Saiba mais](https://lnkd.in/gJd6wBus)
+
+### ❶❶ A Ascensão da Enviromia (Enviromics)  
+- [Conferir artigo](https://lnkd.in/g3QSSeii)
+
+### ❶❷ Etapas de Implementação Experimental para o Melhoramento de Culturas  
+- [Ver etapas](https://lnkd.in/gHU684Qk)
+
+**Diversos**
 
 1. Moeinizade, S., Kusmec, A., Hu, G., Wang, L., & Schnable, P. S. (2020). [Multi-trait genomic selection methods for crop improvement](https://academic.oup.com/genetics/article/215/4/931/6065544). Genetics.
 
