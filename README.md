@@ -6,47 +6,47 @@ Aqui está uma seleção de 12 artigos essenciais que cobrem tópicos importante
 # 🌱 Seleção Genômica & Genética Quantitativa
 
 ### ⓿❶ Entendendo o Processo de Seleção Genômica em Plantas  
-- [Artigo 1](https://www.linkedin.com/feed/update/urn:li:activity:7186618579494967297/)
-- [Artigo 2](https://www.linkedin.com/feed/update/urn:li:activity:7186618874081142784/)
+- https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1155985/melhoramento-de-precisao-aplicacoes-e-perspectivas-na-genetica-de-plantas
+- Resende, R.T. Balancing genomic selection efforts for allogamous plant breeding programs. J. Crop Sci. Biotechnol. 27, 349–358 (2024). https://doi.org/10.1007/s12892-024-00234-7
 
 ### ⓿❷ Como Funciona a Genética Quantitativa?  
-- [Leia aqui](https://lnkd.in/gD2SyK2y)
+- https://www.linkedin.com/posts/thecrop_breeding-precisionbreeding-agriculture-activity-7125966987658178563-_H7R?utm_source=share&utm_medium=member_desktop
 
 ### ⓿❸ Derivações das Relações Genéticas Entre Indivíduos  
-- [Confira aqui](https://lnkd.in/ddhMVcma)
+- https://www.linkedin.com/posts/thecrop_breeding-precisionagriculture-genomics-activity-7128515032455245825-8aaz?utm_source=share&utm_medium=member_desktop
 
 # 🧬 Modelos Estatísticos & Teoria
 
 ### ⓿❹ Efeitos Fixos vs Aleatórios em Modelos Mistos  
-- [Explorar aqui](https://lnkd.in/gfvBERBV)
+- https://www.linkedin.com/posts/thecrop_mixedmodels-breeding-precisionbreeding-activity-7134863118593081345-osE1?utm_source=share&utm_medium=member_desktop
 
 ### ⓿❺ A Equação do Melhorista Explicada  
-- [Ler artigo](https://lnkd.in/gU-CMFhg)
+- https://www.linkedin.com/posts/thecrop_breeding-phenomics-genomics-activity-7158601205236056064-TzZM?utm_source=share&utm_medium=member_desktop
 
 ### ⓿❻ Por Que a Herdabilidade é Fundamental no Melhoramento?  
-- [Link](https://lnkd.in/gTbEWTxE)
+- https://www.linkedin.com/posts/thecrop_genetics-breeding-heritability-activity-7152750689352327168-m7ld?utm_source=share&utm_medium=member_desktop
 
 # 🌾 Populações de Melhoramento & Métodos
 
 ### ⓿❼ Entendendo Populações de Melhoramento  
-- [Visitar aqui](https://lnkd.in/guqMD4hA)
+- https://www.linkedin.com/posts/thecrop_thecrop-plantbreeding-genetics-activity-7155311141504577536-p5YJ?utm_source=share&utm_medium=member_desktop
 
 ### ⓿❽ A Complexa Interação Genótipo × Ambiente  
-- [Aprofunde-se](https://lnkd.in/gsSvNVNr)
+- https://www.linkedin.com/posts/thecrop_gxe-breeding-plantbreeding-activity-7175942157944446976-B_z5?utm_source=share&utm_medium=member_desktop
 
 ### ⓿❾ Seleção Recorrente — É Tão Simples Assim?  
-- [Explorar tópico](https://lnkd.in/gvdhXBiG)
+- https://www.linkedin.com/posts/thecrop_breeding-genomics-phenomics-activity-7188680080171163648-Cblr?utm_source=share&utm_medium=member_desktop
 
 # 📊 ‘Ômicas & Implementação
 
 ### ❶⓿ Fenômica no Melhoramento Genético  
-- [Saiba mais](https://lnkd.in/gJd6wBus)
+- https://www.linkedin.com/posts/thecrop_phenomics-breeding-animalbreeding-activity-7198382693988888576-o0Pu?utm_source=share&utm_medium=member_desktop
 
 ### ❶❶ A Ascensão da Enviromia (Enviromics)  
-- [Conferir artigo](https://lnkd.in/g3QSSeii)
+- https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00118-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205224001187%3Fshowall%3Dtrue
 
 ### ❶❷ Etapas de Implementação Experimental para o Melhoramento de Culturas  
-- [Ver etapas](https://lnkd.in/gHU684Qk)
+- https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19951
 
 **Diversos**
 
