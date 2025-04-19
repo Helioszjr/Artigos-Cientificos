@@ -49,101 +49,101 @@
 
 # Feijão (*Phaseolus vulgaris*)
 
-Adam-Blondon, A. F., Sévignac, M., Thoquet, P., Poncet, V., & Geffroy, V. (1994). SCAR, RAPD and RFLP markers linked to a dominant gene (Are) conferring resistance to anthracnose in common bean. Theoretical and Applied Genetics, 88(6–7), 865–870. https://doi.org/10.1007/BF01253998
+1. Adam-Blondon, A. F., Sévignac, M., Thoquet, P., Poncet, V., & Geffroy, V. (1994). SCAR, RAPD and RFLP markers linked to a dominant gene (Are) conferring resistance to anthracnose in common bean. Theoretical and Applied Genetics, 88(6–7), 865–870. https://doi.org/10.1007/BF01253998
 
-Banoo, A., Sharma, S., Kaul, S., Khajuria, P., & Gupta, P. (2020). North-Western Himalayan common beans: Population structure and mapping of quantitative anthracnose resistance through genome wide association study. Frontiers in Plant Science, 11, 571618. https://doi.org/10.3389/fpls.2020.571618
+2. Banoo, A., Sharma, S., Kaul, S., Khajuria, P., & Gupta, P. (2020). North-Western Himalayan common beans: Population structure and mapping of quantitative anthracnose resistance through genome wide association study. Frontiers in Plant Science, 11, 571618. https://doi.org/10.3389/fpls.2020.571618
 
-Bansuli, & Kapila, R. K. (2024). Marker assisted transfer of anthracnose resistance gene Co-5 to elite French bean (Phaseolus vulgaris L.) background. Euphytica, 220, 71. https://doi.org/10.1007/s10681-024-03321-6
+3. Bansuli, & Kapila, R. K. (2024). Marker assisted transfer of anthracnose resistance gene Co-5 to elite French bean (Phaseolus vulgaris L.) background. Euphytica, 220, 71. https://doi.org/10.1007/s10681-024-03321-6
 
-Bello, M. H., Moghaddam, S. M., Massoudi, M., McClean, P. E., Cregan, P. B., & Miklas, P. N. (2014). Application of in silico bulked segregant analysis for rapid development of markers linked to Bean common mosaic virus resistance in common bean. BMC Genomics, 15, 903. https://doi.org/10.1186/1471-2164-15-903
+4. Bello, M. H., Moghaddam, S. M., Massoudi, M., McClean, P. E., Cregan, P. B., & Miklas, P. N. (2014). Application of in silico bulked segregant analysis for rapid development of markers linked to Bean common mosaic virus resistance in common bean. BMC Genomics, 15, 903. https://doi.org/10.1186/1471-2164-15-903
 
-Bitocchi, E., Nanni, L., Bellucci, E., Rossi, M., Giardini, A., Zeuli, P. S., ... & Papa, R. (2012). Mesoamerican origin of the common bean (Phaseolus vulgaris L.) is revealed by sequence data. Proceedings of the National Academy of Sciences, 109(14), E788–E796. https://doi.org/10.1073/pnas.1108973109
+5. Bitocchi, E., Nanni, L., Bellucci, E., Rossi, M., Giardini, A., Zeuli, P. S., ... & Papa, R. (2012). Mesoamerican origin of the common bean (Phaseolus vulgaris L.) is revealed by sequence data. Proceedings of the National Academy of Sciences, 109(14), E788–E796. https://doi.org/10.1073/pnas.1108973109
 
-Campa, A., Giraldez, R., & Ferreira, J. J. (2009). Genetic dissection of the resistance to nine anthracnose races in the common bean differential cultivars MDRK and TU. Theoretical and Applied Genetics, 119, 1–11. https://doi.org/10.1007/s00122-009-1011-8
+6. Campa, A., Giraldez, R., & Ferreira, J. J. (2009). Genetic dissection of the resistance to nine anthracnose races in the common bean differential cultivars MDRK and TU. Theoretical and Applied Genetics, 119, 1–11. https://doi.org/10.1007/s00122-009-1011-8
 
-Castro, S. A. L., Ramalho, M. A. P., Abreu, A. F. B., & Moreira, M. A. (2017). Genetics and mapping of a new anthracnose resistance locus in Andean common bean Paloma. BMC Genomics, 18, 306. https://doi.org/10.1186/s12864-017-3685-7
+7. Castro, S. A. L., Ramalho, M. A. P., Abreu, A. F. B., & Moreira, M. A. (2017). Genetics and mapping of a new anthracnose resistance locus in Andean common bean Paloma. BMC Genomics, 18, 306. https://doi.org/10.1186/s12864-017-3685-7
 
-David, P., Rech, P., Naoumkina, M., Buddenhagen, C., & Geffroy, V. (2009). A nomadic subtelomeric disease resistance gene cluster in common bean. Plant Physiology, 151, 1048–1065. https://doi.org/10.1104/pp.109.142109
+8. David, P., Rech, P., Naoumkina, M., Buddenhagen, C., & Geffroy, V. (2009). A nomadic subtelomeric disease resistance gene cluster in common bean. Plant Physiology, 151, 1048–1065. https://doi.org/10.1104/pp.109.142109
 
-De Jesus Junior, W. C., Sartorato, A., & Alzate-Marin, A. L. (2001). Effects of angular leaf spot and rust on yield loss of Phaseolus vulgaris. Phytopathology, 91(11), 1045–1053. https://doi.org/10.1094/PHYTO.2001.91.11.1045
+9. De Jesus Junior, W. C., Sartorato, A., & Alzate-Marin, A. L. (2001). Effects of angular leaf spot and rust on yield loss of Phaseolus vulgaris. Phytopathology, 91(11), 1045–1053. https://doi.org/10.1094/PHYTO.2001.91.11.1045
 
-De Souza, I. P., Rodrigues, M. C., Pereira, H. S., Brum, C. B., & Melo, L. C. (2023). Whole-genome resequencing of common bean elite breeding lines. Scientific Reports, 13, 12721. https://doi.org/10.1038/s41598-023-39399-6
+10. De Souza, I. P., Rodrigues, M. C., Pereira, H. S., Brum, C. B., & Melo, L. C. (2023). Whole-genome resequencing of common bean elite breeding lines. Scientific Reports, 13, 12721. https://doi.org/10.1038/s41598-023-39399-6
 
-De Souza, T. L. P. O., Damasceno-Silva, K. J., Abreu, A. F. B., & Moreira, M. A. (2011). Characterization of the rust resistance gene present in the common bean cultivar Ouro Negro, the main rust resistance source used in Brazil. Plant Pathology, 60(5), 839–845. https://doi.org/10.1111/j.1365-3059.2011.02456.x
+11. De Souza, T. L. P. O., Damasceno-Silva, K. J., Abreu, A. F. B., & Moreira, M. A. (2011). Characterization of the rust resistance gene present in the common bean cultivar Ouro Negro, the main rust resistance source used in Brazil. Plant Pathology, 60(5), 839–845. https://doi.org/10.1111/j.1365-3059.2011.02456.x
 
-Erfatpour, M., Simons, K. J., Roy, J., Figueroa Cerna, J. C., Lee, R., Beaver, J., ... & Osorno, J. M. (2025). Fine mapping and identification of causal alleles at the Ur-11 locus controlling rust resistance in common bean (Phaseolus vulgaris L.). Theoretical and Applied Genetics, 138, 55. https://doi.org/10.1007/s00122-025-04836-9
+12. Erfatpour, M., Simons, K. J., Roy, J., Figueroa Cerna, J. C., Lee, R., Beaver, J., ... & Osorno, J. M. (2025). Fine mapping and identification of causal alleles at the Ur-11 locus controlling rust resistance in common bean (Phaseolus vulgaris L.). Theoretical and Applied Genetics, 138, 55. https://doi.org/10.1007/s00122-025-04836-9
 
-Fritsche-Neto, R., Souza, T. L. P. O., Pereira, H. S., Jannink, J. L., & Melo, L. C. (2019). Association mapping in common bean revealed regions associated with resistance to anthracnose and angular leaf spot. Scientia Agricola, 76(4), 321–327. https://doi.org/10.1590/1678-992X-2017-0306
+13. Fritsche-Neto, R., Souza, T. L. P. O., Pereira, H. S., Jannink, J. L., & Melo, L. C. (2019). Association mapping in common bean revealed regions associated with resistance to anthracnose and angular leaf spot. Scientia Agricola, 76(4), 321–327. https://doi.org/10.1590/1678-992X-2017-0306
 
-Geffroy, V., et al. (1999). Identification of an ancestral resistance gene cluster involved in the coevolution process between Phaseolus vulgaris and its fungal pathogen Colletotrichum lindemuthianum. Molecular Plant-Microbe Interactions, 12(9), 774–784. https://doi.org/10.1094/MPMI.1999.12.9.774
+14. Geffroy, V., et al. (1999). Identification of an ancestral resistance gene cluster involved in the coevolution process between Phaseolus vulgaris and its fungal pathogen Colletotrichum lindemuthianum. Molecular Plant-Microbe Interactions, 12(9), 774–784. https://doi.org/10.1094/MPMI.1999.12.9.774
 
-Geffroy, V., et al. (2008). Resistance to Colletotrichum lindemuthianum in Phaseolus vulgaris: a case study for mapping two independent genes. Theoretical and Applied Genetics, 116, 407–415. https://doi.org/10.1007/s00122-007-0678-y
+15. Geffroy, V., et al. (2008). Resistance to Colletotrichum lindemuthianum in Phaseolus vulgaris: a case study for mapping two independent genes. Theoretical and Applied Genetics, 116, 407–415. https://doi.org/10.1007/s00122-007-0678-y
 
-Geffroy, V., et al. (2009). Molecular analysis of a large subtelomeric Nucleotide-Binding-Site–Leucine-Rich-Repeat family in two representative genotypes of the major gene pools of Phaseolus vulgaris. Genetics, 181, 405–419. https://doi.org/10.1534/genetics.108.093583
+16. Geffroy, V., et al. (2009). Molecular analysis of a large subtelomeric Nucleotide-Binding-Site–Leucine-Rich-Repeat family in two representative genotypes of the major gene pools of Phaseolus vulgaris. Genetics, 181, 405–419. https://doi.org/10.1534/genetics.108.093583
 
-Geffroy, V., et al. (2000). Inheritance of partial resistance against Colletotrichum lindemuthianum in Phaseolus vulgaris and co-localization of QTL with genes involved in specific resistance. Molecular Plant-Microbe Interactions, 13(3), 287–296. https://doi.org/10.1094/MPMI.2000.13.3.287
+17. Geffroy, V., et al. (2000). Inheritance of partial resistance against Colletotrichum lindemuthianum in Phaseolus vulgaris and co-localization of QTL with genes involved in specific resistance. Molecular Plant-Microbe Interactions, 13(3), 287–296. https://doi.org/10.1094/MPMI.2000.13.3.287
 
-Gilio, T. A. S., et al. (2020). Fine mapping of an anthracnose-resistance locus in Andean common bean cultivar Amendoim Cavalo. PLoS ONE, 15(10), e0239763. https://doi.org/10.1371/journal.pone.0239763
+18. Gilio, T. A. S., et al. (2020). Fine mapping of an anthracnose-resistance locus in Andean common bean cultivar Amendoim Cavalo. PLoS ONE, 15(10), e0239763. https://doi.org/10.1371/journal.pone.0239763
 
-Gonçalves-Vidigal, M. C., et al. (2011). Linkage mapping of the Phg-1 and Co-14 genes for resistance to angular leaf spot and anthracnose in the common bean cultivar AND 277. Theoretical and Applied Genetics, 122, 893–903. https://doi.org/10.1007/s00122-010-1496-1
+19. Gonçalves-Vidigal, M. C., et al. (2011). Linkage mapping of the Phg-1 and Co-14 genes for resistance to angular leaf spot and anthracnose in the common bean cultivar AND 277. Theoretical and Applied Genetics, 122, 893–903. https://doi.org/10.1007/s00122-010-1496-1
 
-Gonçalves-Vidigal, M. C., et al. (2013). Co-segregation analysis and mapping of the anthracnose Co-10 and angular leaf spot Phg-ON disease-resistance genes in the common bean cultivar Ouro Negro. Theoretical and Applied Genetics, 126, 2245–2255. https://doi.org/10.1007/s00122-013-2131-8
+20. Gonçalves-Vidigal, M. C., et al. (2013). Co-segregation analysis and mapping of the anthracnose Co-10 and angular leaf spot Phg-ON disease-resistance genes in the common bean cultivar Ouro Negro. Theoretical and Applied Genetics, 126, 2245–2255. https://doi.org/10.1007/s00122-013-2131-8
 
-Gupta, C., Salgotra, R. K., & Venegas, R. A. (2025). SNP-based functional marker for anthracnose-resistant Co-2 gene in common bean (Phaseolus vulgaris L.). Journal of Plant Diseases and Protection, 132, 66. https://doi.org/10.1007/s41348-025-01060-x
+21. Gupta, C., Salgotra, R. K., & Venegas, R. A. (2025). SNP-based functional marker for anthracnose-resistant Co-2 gene in common bean (Phaseolus vulgaris L.). Journal of Plant Diseases and Protection, 132, 66. https://doi.org/10.1007/s41348-025-01060-x
 
-Hart, J. P., & Griffiths, P. D. (2015). Genotyping-by-sequencing enabled mapping and marker development for the By-2 potyvirus resistance allele in common bean. The Plant Genome, 8(1). https://doi.org/10.3835/plantgenome2014.09.0058
+22. Hart, J. P., & Griffiths, P. D. (2015). Genotyping-by-sequencing enabled mapping and marker development for the By-2 potyvirus resistance allele in common bean. The Plant Genome, 8(1). https://doi.org/10.3835/plantgenome2014.09.0058
 
-Iwata, A., et al. (2013). Identification and characterization of functional centromeres of the common bean. The Plant Journal, 76, 47–60. https://doi.org/10.1111/tpj.12269
+23. Iwata, A., et al. (2013). Identification and characterization of functional centromeres of the common bean. The Plant Journal, 76, 47–60. https://doi.org/10.1111/tpj.12269
 
-Jeffery, H. R., et al. (2025). A comprehensive review of the genetic control of cooking time in dry beans (Phaseolus vulgaris L.). Plants, People, Planet. https://doi.org/10.1002/ppp3.10631
+24. Jeffery, H. R., et al. (2025). A comprehensive review of the genetic control of cooking time in dry beans (Phaseolus vulgaris L.). Plants, People, Planet. https://doi.org/10.1002/ppp3.10631
 
-Källman, T., et al. (2013). A significant fraction of 21-nucleotide small RNA originates from phased degradation of resistance genes in several perennial species. Plant Physiology, 162(2), 741–754. https://doi.org/10.1104/pp.113.214643
+25. Källman, T., et al. (2013). A significant fraction of 21-nucleotide small RNA originates from phased degradation of resistance genes in several perennial species. Plant Physiology, 162(2), 741–754. https://doi.org/10.1104/pp.113.214643
 
-Kuwabo, K., et al. (2023). Genome-wide association analysis of anthracnose resistance in the Yellow Bean Collection of Common Bean. PLoS ONE, 18(11), e0293291. https://doi.org/10.1371/journal.pone.0293291
+26. Kuwabo, K., et al. (2023). Genome-wide association analysis of anthracnose resistance in the Yellow Bean Collection of Common Bean. PLoS ONE, 18(11), e0293291. https://doi.org/10.1371/journal.pone.0293291
 
-Lacanallo, G. F., & Gonçalves-Vidigal, M. C. (2015). Mapping of an Andean gene for anthracnose resistance (Co-13) in common bean (Phaseolus vulgaris L.) Jalo Listras Pretas landrace. Australian Journal of Crop Science, 9(5), 394–400.
+27. Lacanallo, G. F., & Gonçalves-Vidigal, M. C. (2015). Mapping of an Andean gene for anthracnose resistance (Co-13) in common bean (Phaseolus vulgaris L.) Jalo Listras Pretas landrace. Australian Journal of Crop Science, 9(5), 394–400.
 
-Lateef, I., et al. (2024). Fine mapping of a new common bean anthracnose resistance gene (Co-18) to the proximal end of Pv10 in Indian landrace KRC 5. Theoretical and Applied Genetics, 137, 32. https://doi.org/10.1007/s00122-023-04539-z
+28. Lateef, I., et al. (2024). Fine mapping of a new common bean anthracnose resistance gene (Co-18) to the proximal end of Pv10 in Indian landrace KRC 5. Theoretical and Applied Genetics, 137, 32. https://doi.org/10.1007/s00122-023-04539-z
 
-Leal, A. A., Mangolin, C. A., Gonçalves, L. S. A., & Scapim, C. A. (2020). Resistance loci to anthracnose and angular leaf spot in Brazilian common bean cultivar BRSMG Realce. Agronomy, 10(3), 370. https://doi.org/10.3390/agronomy10030370
+29. Leal, A. A., Mangolin, C. A., Gonçalves, L. S. A., & Scapim, C. A. (2020). Resistance loci to anthracnose and angular leaf spot in Brazilian common bean cultivar BRSMG Realce. Agronomy, 10(3), 370. https://doi.org/10.3390/agronomy10030370
 
-Mao, Y., Zhang, H., Xu, N., Xu, L. A., Wu, J., Yan, L., & Tian, F. (2019). PvMATE8 is required for anthracnose resistance and iron homeostasis in Phaseolus vulgaris. Plant and Cell Physiology, 60(9), 1941–1954. https://doi.org/10.1093/pcp/pcz106
+30. Mao, Y., Zhang, H., Xu, N., Xu, L. A., Wu, J., Yan, L., & Tian, F. (2019). PvMATE8 is required for anthracnose resistance and iron homeostasis in Phaseolus vulgaris. Plant and Cell Physiology, 60(9), 1941–1954. https://doi.org/10.1093/pcp/pcz106
 
-Melotto, M., Coelho, M. F. B., Pedrosa-Harand, A., Kelly, J. D., & Camargo, L. E. A. (2004). Fine linkage mapping of the anthracnose resistance gene Co-4 in common bean (Phaseolus vulgaris L.) using a BAC library. Theoretical and Applied Genetics, 108, 817–824. https://doi.org/10.1007/s00122-003-1485-2
+31. Melotto, M., Coelho, M. F. B., Pedrosa-Harand, A., Kelly, J. D., & Camargo, L. E. A. (2004). Fine linkage mapping of the anthracnose resistance gene Co-4 in common bean (Phaseolus vulgaris L.) using a BAC library. Theoretical and Applied Genetics, 108, 817–824. https://doi.org/10.1007/s00122-003-1485-2
 
-Melotto, M., Afanador, L., & Kelly, J. D. (1996). Development of a SCAR marker linked to the I gene in common bean. Genome, 39(6), 1216–1219. https://doi.org/10.1139/g96-152
+32. Melotto, M., Afanador, L., & Kelly, J. D. (1996). Development of a SCAR marker linked to the I gene in common bean. Genome, 39(6), 1216–1219. https://doi.org/10.1139/g96-152
 
-Melotto, M., & Kelly, J. D. (2001). Fine mapping of the Co-4 locus for anthracnose resistance in common bean. Theoretical and Applied Genetics, 103, 800–807. https://doi.org/10.1007/s001220100615
+33. Melotto, M., & Kelly, J. D. (2001). Fine mapping of the Co-4 locus for anthracnose resistance in common bean. Theoretical and Applied Genetics, 103, 800–807. https://doi.org/10.1007/s001220100615
 
-Mendéz-Vigo, B., Soengas, P., & Santalla, M. (2005). Identification, characterization and mapping of genes conferring resistance to anthracnose in a Spanish landrace of common bean. Plant Breeding, 124(6), 556–561. https://doi.org/10.1111/j.1439-0523.2005.01140.x
+34. Mendéz-Vigo, B., Soengas, P., & Santalla, M. (2005). Identification, characterization and mapping of genes conferring resistance to anthracnose in a Spanish landrace of common bean. Plant Breeding, 124(6), 556–561. https://doi.org/10.1111/j.1439-0523.2005.01140.x
 
-Miklas, P. N., Stone, V., Daly, M., Wang, R. Q., & Johnson, E. (2000). QTL conditioning physiological resistance and avoidance to white mold in common bean. Crop Science, 40(2), 539–542. https://doi.org/10.2135/cropsci2000.402539x
+35. Miklas, P. N., Stone, V., Daly, M., Wang, R. Q., & Johnson, E. (2000). QTL conditioning physiological resistance and avoidance to white mold in common bean. Crop Science, 40(2), 539–542. https://doi.org/10.2135/cropsci2000.402539x
 
-Nunes, M. P., et al. (2007). Genetic analysis of angular leaf spot resistance in common bean (Phaseolus vulgaris L.). Euphytica, 157, 47–56. https://doi.org/10.1007/s10681-007-9395-0
+36. Nunes, M. P., et al. (2007). Genetic analysis of angular leaf spot resistance in common bean (Phaseolus vulgaris L.). Euphytica, 157, 47–56. https://doi.org/10.1007/s10681-007-9395-0
 
-Pastor-Corrales, M. A., & Tu, J. C. (1989). Anthracnose. In H. F. Schwartz & M. A. Pastor-Corrales (Eds.), Bean production problems in the tropics (pp. 77–104). CIAT.
+37. Pastor-Corrales, M. A., & Tu, J. C. (1989). Anthracnose. In H. F. Schwartz & M. A. Pastor-Corrales (Eds.), Bean production problems in the tropics (pp. 77–104). CIAT.
 
-Raman, H., Raman, R., Kilian, A., Detering, F., & Balint-Kurti, P. (2014). Genome-wide association mapping identifies loci for resistance to rust, anthracnose and angular leaf spot in common bean. Theoretical and Applied Genetics, 127(5), 1005–1019. https://doi.org/10.1007/s00122-014-2262-5
+38. Raman, H., Raman, R., Kilian, A., Detering, F., & Balint-Kurti, P. (2014). Genome-wide association mapping identifies loci for resistance to rust, anthracnose and angular leaf spot in common bean. Theoretical and Applied Genetics, 127(5), 1005–1019. https://doi.org/10.1007/s00122-014-2262-5
 
-Richardson, A. O., & Palmer, J. D. (2007). Horizontal gene transfer in plants. Journal of Experimental Botany, 58(1), 1–9. https://doi.org/10.1093/jxb/erl148
+39. Richardson, A. O., & Palmer, J. D. (2007). Horizontal gene transfer in plants. Journal of Experimental Botany, 58(1), 1–9. https://doi.org/10.1093/jxb/erl148
 
-Rodrigues, M. C., Gonçalves-Vidigal, M. C., & Pereira, H. S. (2022). High-throughput genotyping to identify resistance loci to angular leaf spot in common bean. Theoretical and Applied Genetics, 135, 1525–1537. https://doi.org/10.1007/s00122-022-04022-7
+40. Rodrigues, M. C., Gonçalves-Vidigal, M. C., & Pereira, H. S. (2022). High-throughput genotyping to identify resistance loci to angular leaf spot in common bean. Theoretical and Applied Genetics, 135, 1525–1537. https://doi.org/10.1007/s00122-022-04022-7
 
-Rudolph, L. K., Kelly, J. D., & Miklas, P. N. (2022). Understanding and exploiting race-specific and non-race-specific resistance for control of anthracnose and angular leaf spot of common bean. Frontiers in Plant Science, 13, 823918. https://doi.org/10.3389/fpls.2022.823918
+41. Rudolph, L. K., Kelly, J. D., & Miklas, P. N. (2022). Understanding and exploiting race-specific and non-race-specific resistance for control of anthracnose and angular leaf spot of common bean. Frontiers in Plant Science, 13, 823918. https://doi.org/10.3389/fpls.2022.823918
 
-Souza, T. L. P. O., et al. (2014). Mapping QTLs for resistance to anthracnose and angular leaf spot in common bean (Phaseolus vulgaris L.). Euphytica, 198(3), 385–396. https://doi.org/10.1007/s10681-014-1117-y
+42. Souza, T. L. P. O., et al. (2014). Mapping QTLs for resistance to anthracnose and angular leaf spot in common bean (Phaseolus vulgaris L.). Euphytica, 198(3), 385–396. https://doi.org/10.1007/s10681-014-1117-y
 
-Souza, T. L. P. O., et al. (2023). Identification of new sources of resistance to angular leaf spot and powdery mildew in common bean. Plant Pathology, 72(4), 706–714. https://doi.org/10.1111/ppa.13652
+43. Souza, T. L. P. O., et al. (2023). Identification of new sources of resistance to angular leaf spot and powdery mildew in common bean. Plant Pathology, 72(4), 706–714. https://doi.org/10.1111/ppa.13652
 
-Tock, A. J., Fourie, D., Walley, P. G., et al. (2017). Genome-wide association mapping reveals genes underlying anthracnose resistance in Andean beans. Scientific Reports, 7, 45718. https://doi.org/10.1038/srep45718
+44. Tock, A. J., Fourie, D., Walley, P. G., et al. (2017). Genome-wide association mapping reveals genes underlying anthracnose resistance in Andean beans. Scientific Reports, 7, 45718. https://doi.org/10.1038/srep45718
 
-Tock, A. J., et al. (2021). A bean pan-genome provides insight into common bean diversity. Nature Genetics, 53, 1494–1505. https://doi.org/10.1038/s41588-021-00947-7
+45. Tock, A. J., et al. (2021). A bean pan-genome provides insight into common bean diversity. Nature Genetics, 53, 1494–1505. https://doi.org/10.1038/s41588-021-00947-7
 
-Valentini, G., et al. (2019). Fine mapping of the resistance gene Co-3X conferring resistance to anthracnose in common bean. Molecular Breeding, 39, 78. https://doi.org/10.1007/s11032-019-0995-4
+46. Valentini, G., et al. (2019). Fine mapping of the resistance gene Co-3X conferring resistance to anthracnose in common bean. Molecular Breeding, 39, 78. https://doi.org/10.1007/s11032-019-0995-4
 
-Vasconcelos, J. R. B., et al. (2017). QTL mapping of angular leaf spot resistance in common bean under different environments. Crop Science, 57(4), 1932–1944. https://doi.org/10.2135/cropsci2016.10.0862
+47. Vasconcelos, J. R. B., et al. (2017). QTL mapping of angular leaf spot resistance in common bean under different environments. Crop Science, 57(4), 1932–1944. https://doi.org/10.2135/cropsci2016.10.0862
 
-Zhang, P., et al. (2023). Genetic basis of multiple disease resistance in common bean revealed through genome-wide association analysis and genomic prediction. Frontiers in Plant Science, 14, 1173035. https://doi.org/10.3389/fpls.2023.1173035
+48. Zhang, P., et al. (2023). Genetic basis of multiple disease resistance in common bean revealed through genome-wide association analysis and genomic prediction. Frontiers in Plant Science, 14, 1173035. https://doi.org/10.3389/fpls.2023.1173035
 
 # Milho (*Zea mays*)
 1. Moeinizade, S., Kusmec, A., Hu, G., Wang, L., & Schnable, P. S. (2020). [Multi-trait genomic selection methods for crop improvement](https://academic.oup.com/genetics/article/215/4/931/6065544). Genetics.
