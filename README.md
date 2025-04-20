@@ -200,4 +200,42 @@
 
 27. Hufnagel, B., de Sousa, S. M., Assis, L., Guimaraes, C. T., Leiser, W., Azevedo, G. C., ... & Magalhaes, J. V. (2014). [Duplicate and conquer: multiple homologs of PHOSPHORUS-STARVATION TOLERANCE1 enhance phosphorus acquisition and sorghum performance on low-phosphorus soils](https://academic.oup.com/plphys/article/166/2/659/6113341). Plant physiology, 166(2), 659-677.
 
+# Linha do Tempo dos Principais Estudos de GWAS em Plantas
+
+🌱 2010 – Arabidopsis thaliana
+Autores: Atwell et al.
+Título: Genome-wide association study of 107 phenotypes in Arabidopsis thaliana inbred lines
+Revista: Nature
+Contribuição: Primeiro grande GWAS em plantas, com 107 fenótipos e >200 mil SNPs.
+Link: https://doi.org/10.1038/nature08800
+
+🌽 2011 – Milho (Zea mays)
+Autores: Tian et al.
+Título: Genome-wide association study of leaf architecture in maize
+Revista: Nature Genetics
+Contribuição: Primeiro GWAS em cultura agrícola, identificando QTLs para arquitetura da planta.
+Link: https://doi.org/10.1038/ng.859
+
+🍚 2012 – Arroz (Oryza sativa)
+Autores: Huang et al.
+Título: A map of rice genome variation reveals the origin of cultivated rice
+Revista: Nature Genetics
+Contribuição: GWAS com mais de 500 acessos, revelando genes para produtividade e morfologia da panícula.
+Link: https://doi.org/10.1038/ng.2417
+
+🌾 2014 – Trigo (Triticum aestivum)
+Autores: Sukumaran et al.
+Título: Genome-wide association study for grain yield and related traits in bread wheat
+Revista: Theoretical and Applied Genetics
+Contribuição: Estudo pioneiro de GWAS em trigo hexaplóide, focando em rendimento e tolerância à seca.
+Link: https://doi.org/10.1007/s00122-014-2303-0
+
+🌱 2014 – Soja (Glycine max)
+Autores: Zhou et al.
+Título: Resequencing 302 wild and cultivated accessions identifies genes related to domestication and improvement in soybean
+Revista: Nature Biotechnology
+Contribuição: Estudo com ampla diversidade genética, identificando genes relacionados à domesticação, rendimento, óleo e proteína.
+Link: https://doi.org/10.1038/nbt.2979
+
+
 
