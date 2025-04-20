@@ -215,30 +215,46 @@ Link: https://doi.org/10.1038/nature08800
 
 🌽 2011 – Milho (Zea mays)
 Autores: Tian et al.
+
 Título: Genome-wide association study of leaf architecture in maize
+
 Revista: Nature Genetics
+
 Contribuição: Primeiro GWAS em cultura agrícola, identificando QTLs para arquitetura da planta.
+
 Link: https://doi.org/10.1038/ng.859
 
 🍚 2012 – Arroz (Oryza sativa)
 Autores: Huang et al.
+
 Título: A map of rice genome variation reveals the origin of cultivated rice
+
 Revista: Nature Genetics
+
 Contribuição: GWAS com mais de 500 acessos, revelando genes para produtividade e morfologia da panícula.
+
 Link: https://doi.org/10.1038/ng.2417
 
 🌾 2014 – Trigo (Triticum aestivum)
 Autores: Sukumaran et al.
+
 Título: Genome-wide association study for grain yield and related traits in bread wheat
+
 Revista: Theoretical and Applied Genetics
+
 Contribuição: Estudo pioneiro de GWAS em trigo hexaplóide, focando em rendimento e tolerância à seca.
+
 Link: https://doi.org/10.1007/s00122-014-2303-0
 
 🌱 2014 – Soja (Glycine max)
 Autores: Zhou et al.
+
 Título: Resequencing 302 wild and cultivated accessions identifies genes related to domestication and improvement in soybean
+
 Revista: Nature Biotechnology
+
 Contribuição: Estudo com ampla diversidade genética, identificando genes relacionados à domesticação, rendimento, óleo e proteína.
+
 Link: https://doi.org/10.1038/nbt.2979
 
 
