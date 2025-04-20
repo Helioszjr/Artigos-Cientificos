@@ -204,9 +204,13 @@
 
 🌱 2010 – Arabidopsis thaliana
 Autores: Atwell et al.
+
 Título: Genome-wide association study of 107 phenotypes in Arabidopsis thaliana inbred lines
+
 Revista: Nature
+
 Contribuição: Primeiro grande GWAS em plantas, com 107 fenótipos e >200 mil SNPs.
+
 Link: https://doi.org/10.1038/nature08800
 
 🌽 2011 – Milho (Zea mays)
